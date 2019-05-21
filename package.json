@@ -1,0 +1,10 @@
+{
+  "name": "epione",
+  "version": "1.0.0",
+  "description": "Serverless CRUD service exposing a REST HTTP interface",
+  "author": "",
+  "license": "None",
+  "dependencies": {
+    "uuid": "^2.0.3"
+  }
+}
