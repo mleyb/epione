@@ -24,7 +24,7 @@ functions:
     handler: bottles/list.list
     events:
       - http:
-          path: todos
+          path: bottles
           method: get
           cors: true
 
